@@ -13,4 +13,5 @@ Bibliocraft.js
 AppliedEnergistics2.js
 Tcon.js
 MFR.js
+Usernm_ExtraUtilities.js
 Usernm_OpenBlocks.js
